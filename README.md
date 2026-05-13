@@ -2,11 +2,6 @@
 
 -- There is.
 
-> Some people talk about the information sliding of the blackboard of your brain. That's was my life. I was called `lazy`, `slowly`,
-> my selfimage was down around my ankles.
-
-## A OIer's history.
-
 > 有的评测机活着，但他RE了
 > 
 > 有的评测机死了，但他AC了
