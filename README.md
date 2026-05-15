@@ -292,7 +292,9 @@ Farmer John的奶牛掉进垃圾陷阱，一颗颗导弹被系统拦截；
 ---
 
 本人擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的**安装与卸载**。
+
 精通CSS、JavaScript、PHP、Html、ASP.Net、C、C＋＋、C#、Java、Ruby、Perl、Lisp、Python、Objective-C、ActionScript、Pascal等 **单词的拼写**。
+
 熟悉Windows、Linux、macOS、Android、IOS、iPadOS、WP8等系统的**开关机** 。
 
 ---
@@ -591,7 +593,6 @@ AC一点且为乐，会须一刷三百WA。
 莫抄袭，没了AC记录，空悲切！ 
 
 CE耻，犹未雪。
-
 
 蒟蒻恨，何时灭！ 
 
